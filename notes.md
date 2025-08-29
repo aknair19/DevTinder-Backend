@@ -15,3 +15,5 @@
     - ex: ab(cde)+f matches abcef, abcdef, abcdedef but not abef
   - /regex/ matches the regex
     - ex: /a+/ matches a, aa, aaa but not b, /.\*fly$/ matches butterfly, dragonfly but not butterflyman
+
+-connect to database before starting the server
