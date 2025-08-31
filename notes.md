@@ -25,3 +25,7 @@
   - JSON values can be strings, numbers, objects, arrays, true, false, or null. JavaScript values can be any valid expression, including functions and undefined
   - JSON does not support comments, JavaScript supports single-line (//) and multi-line (/\* \*/) comments
   - JSON is used for data interchange between systems, JavaScript is used for web development and server-side programming
+- never blindly trust request data, always validate it
+- validate data in signup api
+- create a password hash and save the user with hast password
+-
